@@ -1,0 +1,6 @@
+.pio/
+.venv/
+sim/hlsim
+*.bmp
+__pycache__/
+.DS_Store
